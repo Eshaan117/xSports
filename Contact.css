@@ -1,0 +1,29 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+@media only screen and (min-width:300px) and (max-width:400px){
+    /*Only screen width between 300px and 400px*/
+
+    .Bigrapper{
+        margin-top:40px;
+    }
+
+    #styler{
+
+        border-bottom:2px solid purple;
+
+
+    }
+    .histon{
+        color:rgb(38, 147, 255);
+        text-align:center;
+        margin-bottom:30px;
+    }
+    .Smallrapper{
+        margin-top:30px;
+    }
+
+
+}

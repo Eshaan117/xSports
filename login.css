@@ -1,0 +1,12 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+@media only  screen and (min-width:300px) and (max-width:400px){
+    /*Now we are going to add some styles as well*/
+    #Sindf{
+        border-bottom:2px solid royalblue;
+        
+    }
+}
